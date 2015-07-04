@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tts"> 
+        <item>結帳</item> 
+        <item>購物車</item>  
+        <item>SHOPPING CART</item> 
+        <item>CHECKOUT</item>  
+        <item>CHECK OUT</item>
+        <item>CART</item> 
+        <item>SHOPPINGCART</item>  
+    </string-array>
+    
+    <string name="opensearchdialog">Please say a product name \n or type in the blank.</string>
+    <string name="opensearchtts">Please say a product name or type in the blank.</string>
+    
+</resources>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="checkout"> 
+        <item>結帳</item> 
+        <item>購物車</item>  
+        <item>SHOPPING CART</item> 
+        <item>CHECKOUT</item>  
+        <item>CHECK OUT</item>
+        <item>CART</item> 
+        <item>SHOPPINGCART</item>  
+    </string-array>
+
+    <string-array name="wishlist"> 
+        <item>願望</item> 
+        <item>願望清單</item>  
+        <item>最愛</item> 
+        <item>我的最愛</item>  
+        <item>WISH LIST</item> 
+        <item>WISHLIST</item>  
+    </string-array>
+    
+    <string-array name="history"> 
+        <item>HISTORY</item> 
+        <item>ORDER HISTORY</item>  
+        <item>記錄</item> 
+        <item>購物記錄</item>  
+    </string-array>
+    
+    <string-array name="search"> 
+        <item>SEARCH</item> 
+        <item>FIND</item>  
+        <item>找</item> 
+        <item>尋找</item>  
+    </string-array>
+    
+    <string-array name="payment"> 
+        <item>PAYMENT</item> 
+    </string-array>
+    
+    <string-array name="addalltocart"> 
+    	<item>ADD ALL TO CART</item> 
+    	<item>ADDED ALL TO CART</item> 
+    </string-array>
+    
+    <string-array name="addtowishlist"> 
+        <item>ADD TO WISH LIST</item> 
+        <item>ADDED TO WISH LIST</item> 
+        <item>ADD TO WISHLIST</item> 
+        <item>ADDED TO WISHLIST</item> 
+    </string-array>
+    
+    <string-array name="addToCart"> 
+    	<item>ADD TO CART</item> 
+    	<item>ADDED TO CART</item> 
+    </string-array>  
+      
+    <string-array name="pageup"> 
+        <item>page up</item> 
+        <item>previous page</item>  
+        <item>last page</item>  
+    </string-array>
+    
+    <string-array name="pagedown"> 
+        <item>page down</item> 
+        <item>next page</item>  
+    </string-array>
+    
+    <string-array name="item"> 
+        <item>item *</item> 
+        <item>items *</item> 
+        <item>number *</item> 
+        <item>numbers *</item> 
+    </string-array>
+    
+    <string-array name="next"> 
+        <item>next</item> 
+        <item>order</item> 
+    </string-array> 
+    
+     <string-array name="page"> 
+        <item>page *</item> 
+    </string-array>
+    
+    <string-array name="voicemode"> 
+        <item>voice mode</item> 
+        <item>voice</item>
+    </string-array>    
+    
+    <string-array name="findsomething">
+        <item>I want an *</item>
+        <item>I want a *</item>
+        <item>I want the *</item>
+        <item>I want *</item>
+        <item>search of *</item>
+        <item>search *</item>
+        <item>find the*</item>
+        <item>find a*</item>
+        <item>find*</item> 
+        <item>我要*</item> 
+        <item>我要 *</item>
+        <item>幫我找*</item> 
+        <item>幫我找 *</item>
+    </string-array>    
+    
+    <string-array name="iwantsomething"> 
+        <item>give me *</item>
+        <item>給我*</item>
+        <item>給我 *</item>
+    </string-array>  
+    
+    <string-array name="lastsearch"> 
+        <item>lastsearch</item> 
+        <item>last search</item>
+        <item>last searched</item>
+        <item>上一步</item> 
+    </string-array> 
+    
+    <string-array name="reset"> 
+        <item>reset</item> 
+        <item>重來</item> 
+    </string-array>     
+    
+    <string-array name="backtoshop"> 
+        <item>back to shop</item> 
+        <item>back to the shop</item>
+        <item>shop</item>
+        <item>繼續購物</item> 
+    </string-array>    
+    
+    <string-array name="mycart"> 
+        <item>my cart</item> 
+        <item>back to bill</item>
+        <item>購物車</item>
+        <item>回到購物車</item> 
+    </string-array>   
+    
+    <string-array name="drop"> 
+        <item>drop</item> 
+        <item>刪除項目 </item> 
+    </string-array>      
+    <string-array name="dropsomething"> 
+        <item>drop *</item> 
+        <item>丟掉 *</item> 
+    </string-array>   
+    
+    <string-array name="nextbill"> 
+        <item>next</item> 
+        <item>下一頁</item> 
+    </string-array>  
+    
+    <string-array name="prevbill"> 
+        <item>previous</item> 
+        <item>上一頁</item> 
+    </string-array>
+        
+    <string-array name="creditcard"> 
+        <item>payment</item> 
+        <item>刷卡</item> 
+    </string-array>  
+    
+    <string-array name="modifyfinish"> 
+        <item>finish</item> 
+        <item>完成</item> 
+    </string-array> 
+               
+    <string-array name="buyproductwithnumber"> 
+        <item>buy *</item> 
+        <item>add *</item> 
+        <item>call *</item> 
+        <item>take *</item> 
+        <item>give me *</item> 
+    </string-array>
+    
+    <string-array name="buyproduct"> 
+        <item>i want to buy *</item> 
+        <item>i want to add *</item> 
+        <item>i wanna buy *</item> 
+        <item>i wanna add *</item> 
+    </string-array>
+    
+    <string-array name="deleteproduct"> 
+        <item>delete *</item> 
+        <item>remove *</item>  
+        <item>delete the *</item> 
+        <item>remove the *</item>  
+    </string-array>
+    
+    <string-array name="checkorderstatus"> 
+        <item>check order status</item> 
+        <item>check order</item>  
+        <item>order status</item>   
+        <item>status</item>   
+    </string-array>
+    
+</resources>
